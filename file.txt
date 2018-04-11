@@ -1,0 +1,5 @@
+
+Maximum humidity  is 93.
+Maximum temperature in Celcius is 16.
+Minimum temperature in Celcius is 8.
+Precipitation per milimeter is 6.35.
