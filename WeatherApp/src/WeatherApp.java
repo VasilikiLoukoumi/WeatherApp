@@ -59,7 +59,7 @@ public class WeatherApp {
    
 				  	}
 				  	
-				  	//Create file and directory
+				  	//Create file in current directory
 				  	File file = new File("file.txt");
 				  	PrintWriter printWriter = new PrintWriter(file, "UTF-8");
 				  	//Write table2 contents to the text file
