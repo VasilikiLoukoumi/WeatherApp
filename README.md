@@ -1,10 +1,12 @@
 # WeatherApp
 A java app that retrieves weather related data from the wunderground API and creates a new txt file containing the data.
 To run it:
+
 Option a:
 Download the jar file.
 Open command line and change your directory to the directory you've downloaded the file.
 Then type java -jar WeatherApp.jar.
+
 Option b:
 Open the WeatherApp file in an editor like Eclipse and run it.
 
